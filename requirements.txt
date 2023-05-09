@@ -1,0 +1,5 @@
+numpy
+opencv-python==4.7.0.72
+ultralytics==8.0.65
+picamera==1.13
+spidev==3.6

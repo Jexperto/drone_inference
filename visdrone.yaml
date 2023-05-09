@@ -1,0 +1,12 @@
+path: ./visdrone  # dataset root dir
+train: train  # train images (relative to 'path') 128 images
+val: val  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: people
+  1: car
+  2: van
+  3: truck
+  4: bus
